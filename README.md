@@ -1,3 +1,7 @@
+# Depreciated: Please Checkout ngx-toastr for Angular 6 Support
+
+https://github.com/scttcper/ngx-toastr
+
 Angular Toaster Module (ng2-toastr)
 ===================
 
